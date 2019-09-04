@@ -1,1 +1,1 @@
-vickey.bookmark.com
+ https://vickey.bookmark.com
